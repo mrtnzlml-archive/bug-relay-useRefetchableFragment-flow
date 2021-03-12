@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "flow-bin": "^0.146.0",
+    "graphql": "^15.5.0",
+    "react-relay": "^11.0.0",
+    "relay-compiler": "^11.0.0"
+  }
+}

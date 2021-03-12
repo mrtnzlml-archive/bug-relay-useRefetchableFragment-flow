@@ -1,0 +1,11 @@
+schema {
+  query: RootQuery
+}
+
+type RootQuery {
+  node(id: ID!): Node
+}
+
+interface Node {
+  id: ID!
+}
